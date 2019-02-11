@@ -1,6 +1,6 @@
 # gits
 
-> Soal Front End
+> Test FE v1.0 Gits 
 
 ## Build Setup
 
